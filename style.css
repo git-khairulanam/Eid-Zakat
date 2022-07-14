@@ -200,3 +200,173 @@ text-align: center;
   padding-top: 23px;
   padding-right: 15px;
 }
+
+/**-----gallery-----**/
+.img-conatiner{
+  display: flex;
+  justify-content: space-around;
+}
+
+.img-item1{
+  position: absolute;
+  width: 364px;
+  height: 391px;
+  left: 150px;
+  top: 2882px;
+
+  border-radius: 10px;
+}
+
+.img-item2{
+  position: absolute;
+  width: 364px;
+  height: 391px;
+  left: 538px;
+  top: 2882px;
+
+  border-radius: 10px;
+}
+
+.img-item3{
+  position: absolute;
+  width: 364px;
+  height: 391px;
+  left: 926px;
+  top: 2882px;
+
+  border-radius: 10px;
+}
+
+.last-headr{
+  position: absolute;
+width: 877px;
+height: 108px;
+left: 281px;
+top: 3373px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 45px;
+line-height: 54px;
+text-align: center;
+
+}
+
+.last-para{
+  position: absolute;
+width: 664px;
+height: 56px;
+left: 387px;
+top: 3525px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 28px;
+
+text-align: center;
+
+color: #707070;
+}
+
+/**----card-last----**/
+.card-o{
+  position: absolute;
+  width: 364px;
+  height: 470px;
+  left: 150px;
+  top: 3630px;
+  box-shadow: 1px 1px 10px black;
+  border-radius: 10px;
+}
+
+.card-t{
+  position: absolute;
+  width: 364px;
+  height: 470px;
+  left: 538px;
+  top: 3630px;
+  box-shadow: 1px 1px 10px black;
+  border-radius: 10px;
+}
+
+.card-th{
+  position: absolute;
+  width: 364px;
+  height: 470px;
+  left: 926px;
+  top: 3630px;
+  box-shadow: 1px 1px 10px black;
+  border-radius: 10px;
+}
+
+.crd-headr{
+  width: 110px;
+  height: 24px;
+  
+
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 24px;
+
+  color: #121212;
+  padding: 0 15px 0 15px;
+}
+
+.crd-para{
+  width: 350px;
+  height: 112px;
+
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 28px;
+  padding: 0 15px 0 15px;
+  padding-bottom: 15px;
+
+  color: #707070;
+}
+
+.zakat-link{
+  width: 160px;
+  height: 24px;
+  padding: 0 15px 0 15px;
+
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 20px;
+  text-decoration-line: underline;
+
+  color: #EF233C;
+}
+
+/**---footer----**/
+.ftr-part{
+  background-color: black;
+  position: absolute;
+left: 0%;
+right: 0%;
+top: 95.97%;
+bottom: 0%;
+}
+
+.ftr-part h1{
+  color: #EF233C;
+  text-align: center;
+  font-family: 'Inter';
+  padding-top: 30px;
+}
+
+.ftr-part p{
+  color: white;
+  text-align: center;
+  font-family: 'Poppins';
+  font-size: 15px;
+  padding-bottom: 20px;
+}
